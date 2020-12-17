@@ -300,7 +300,7 @@
 	</script>
     <h1>Soccer</h1> 
        <div>
-           <p>Autor: ${author} @ ${website}</p>
+           <p>Guiller buenas: ${author} @ ${website}</p>
        </div> 
        <div data-ng-app="mainApp" data-ng-controller="RESTController">
        		Probando GitHub y Jenkins... (me falta depurar hibernate)
